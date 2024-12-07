@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\semendlab\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2005221192.index
+1998595953.index
+2296471306.index
+3474152833.index
+1735512190.index
+4263260500.index
